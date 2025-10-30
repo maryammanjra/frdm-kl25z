@@ -8,5 +8,5 @@ If the answer is yes, then you'll need the Arm GNU embedded toolchain and openoc
 if you don't use brew. It's fairly straightforward from there, run **make flash-debug** to get the whole thing going. 
 
 The linker scripts in this project are not my own, and come from NXPs IDE, you are always free to write your own. 
-If you're looking to build for this specific board, and you're on Linux or Windows, check out Erich Stygers blog for help: 
+If you're looking to build for this specific board, and you're on Linux or Windows, check out Erich Styger's blog for help: 
 https://mcuoneclipse.com/2013/07/20/dyi-free-toolchain-for-kinetis-part-1-gnu-arm-build-tools/
